@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Claudio-Francisco-Dos-Santos-Junior
+# 🤚 Olá humano, meu nome é Cláudio!
 - 👀 I’m interested entender e compreender o mundo da programação e da tecnologia.
 
 <blockquote>
