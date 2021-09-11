@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-<img align="left" height="200" width="200" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"></img>
-
+![480531](https://user-images.githubusercontent.com/90356917/132951365-bff4c738-d6ba-4580-b76d-26497f80f8f0.png)
 
 
