@@ -10,4 +10,4 @@ Claudio-Francisco-Dos-Santos-Junior/Claudio-Francisco-Dos-Santos-Junior is a ✨
 You can click the Preview link to take a look at your changes.
 --->
   
-  [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Francisco-Dos-Santos-Junior)](https://github.com/anuraghazra/github-readme-stats)
+  [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Francisco-Dos-Santos-Junior)](https://github.com/Claudio-Francisco-Dos-Santos-Junior/github-readme-stats)
