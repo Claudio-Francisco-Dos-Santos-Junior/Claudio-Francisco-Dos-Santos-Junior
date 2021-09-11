@@ -1,5 +1,5 @@
 # 🤚 Olá humano, meu nome é Cláudio!
-# 👀 Sempre estou a entender e compreender o mundo da programação e da tecnologia.
+# 👀 Sempre estou a entender e a compreender o mundo da programação e da tecnologia.
 
 <blockquote>
 
