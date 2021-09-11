@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Claudio-Francisco-Dos-Santos-Junior
+- 👀 I’m interested inentender e compreender o mundo da programação e da tecnologia.
+
+<blockquote>
+
+> “Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário”.
+
+<!---
+Claudio-Francisco-Dos-Santos-Junior/Claudio-Francisco-Dos-Santos-Junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
