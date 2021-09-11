@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-<img align="left" height="500" width="500" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"></img>
+<img align="left" height="200" width="200" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"></img>
 
 
 
