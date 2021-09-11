@@ -12,12 +12,13 @@ You can click the Preview link to take a look at your changes.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Francisco-Dos-Santos-Junior)](https://github.com/Claudio-Francisco-Dos-Santos-Junior/github-readme-stats)
 
-  ### Procuro sempre estar atualizado e futuramente quero abrir minha própria marca de produtos tecnológicos.
+  Procuro sempre estar atualizado e futuramente quero abrir minha própria marca de produtos tecnológicos.
   
   [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Francisco-Dos-Santos-Junior)](https://github.com/Claudio-Francisco-Dos-Santos-Junior/github-readme-stats)
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
+<img align="left" height="100" width="100" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"></img>
 
 
 
