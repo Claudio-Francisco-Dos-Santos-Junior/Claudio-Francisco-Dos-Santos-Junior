@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Claudio-Francisco-Dos-Santos-Junior
-- 👀 I’m interested enetender e compreender o mundo da programação e da tecnologia.
+- 👀 I’m interested entender e compreender o mundo da programação e da tecnologia.
 
 <blockquote>
 
