@@ -1,5 +1,7 @@
 # Olá humano, meu nome é Cláudio!
 # 👀 Sempre estou a entender e a compreender o mundo da programação e da tecnologia.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"/>
+
 
 <blockquote>
 
