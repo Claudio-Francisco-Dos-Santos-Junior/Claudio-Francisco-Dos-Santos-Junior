@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"/> # Olá humano, meu nome é Cláudio!
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"/> Olá humano, meu nome é Cláudio!
 # 👀 Sempre estou a entender e a compreender o mundo da programação e da tecnologia.
 
 <blockquote>
