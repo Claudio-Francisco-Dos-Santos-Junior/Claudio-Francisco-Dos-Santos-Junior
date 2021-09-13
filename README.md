@@ -8,10 +8,8 @@
 > “Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário”.
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-  
-                                                                                                        <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img                                                                                                                        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-                                                                                                                    badge&logo=discord&logoColor=white" target="_blank"></a> 
+https://thumbs.dreamstime.com/b/m%C3%A3o-usada-homem-de-neg%C3%B3cios-para-ferramenta-da-tecnologia-da-tampa-39059595.jpg
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
 <!---
 Claudio-Francisco-Dos-Santos-Junior/Claudio-Francisco-Dos-Santos-Junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
